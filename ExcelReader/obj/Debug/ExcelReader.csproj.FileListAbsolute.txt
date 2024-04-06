@@ -1,0 +1,10 @@
+H:\Robby\源代码\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+H:\Robby\源代码\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+H:\Robby\源代码\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.AssemblyReference.cache
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.cache
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+H:\Robby\源代码\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb

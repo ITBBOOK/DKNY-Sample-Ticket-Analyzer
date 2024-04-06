@@ -8,7 +8,7 @@ Last year I worked for a handbag factory in Dongguan of China. I work for custom
 
 软件使用方法：
 
-1. 点击读取Excel表格，打开客户发来的sample ticket表格。这个文件夹里几个都是，https://github.com/ITBBOOK/DKNY-Sample-Ticket-Analyzer/upload/main/Sample%20Ticket%20files 可以试.
+1. 点击读取Excel表格，打开客户发来的sample ticket表格。这个文件夹里几个都是，https://github.com/ITBBOOK/DKNY-Sample-Ticket-Analyzer/tree/main/Sample%20Ticket%20files 可以试.
    我只是测试了这几种格式，可能有的会有错误。软件会自动读取所有sheet表格，被设置隐藏的表格不会被读取，所以你不想读取的表格可以先设置隐藏！
 ![image](https://github.com/ITBBOOK/DKNY-Sample-Ticket-Analyzer/assets/58942695/40290f6e-81a5-4638-97a7-0bdbfc7115a8)
 
